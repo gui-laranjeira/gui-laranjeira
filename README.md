@@ -1,8 +1,9 @@
-### Oi! Sou Guilherme Laranjeira! 
+### Oi! Sou Guilherme Laranjeira! Desenvolvedor back-end em formação
 
 
-- 💻 Estudando C# e programação.
+- 💻 Trabalho com .NET; API Rest; SQL Server.
 - 📊 Google Data Analytics Professional Certificate.
+- :bulb: No tempo livre, estudando GoLang!
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🎓 Graduando em História pela Universidade de São Paulo.
 - 🥉 Fun fact: Fui medalhista de bronze na Olimpíada Brasileira de Astronomia!
