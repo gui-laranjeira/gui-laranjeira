@@ -1,7 +1,7 @@
 ### Oi! Sou Guilherme Laranjeira! Desenvolvedor back-end em formação
 
 
-- 💻 Trabalho com .NET; API Rest; SQL Server.
+- 💻 .NET; API Rest; SQL Server.
 - 📊 Google Data Analytics Professional Certificate.
 - :bulb: No tempo livre, estudando GoLang!
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
