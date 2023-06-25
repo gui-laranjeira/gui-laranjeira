@@ -1,8 +1,8 @@
 ### Hi! My name is Guilherme Laranjeira and I'm a full-stack developer.
 
 
-- 💻 Work with .NET, Angular and Ionic;
-- :sparkling_heart: But i really like Go, Node.js and Vue.js;
+- 💻 I work with .NET, Angular and Ionic;
+- :sparkling_heart: But I really like Go, Node.js and Vue.js;
 - 📊 I'm a certified Google Data Analytics professional;
 - 🎓 Technologist course in system analysis and development;
 - :iphone: I will now learn dart/flutter
