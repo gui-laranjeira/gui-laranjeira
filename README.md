@@ -1,6 +1,5 @@
 ### Hi! My name is Guilherme Laranjeira and I'm a full-stack developer.
 
-
 - 💻 I work with .NET, Angular and Ionic;
 - :sparkling_heart: But I really like Go, Node.js and Vue.js;
 - 📊 I'm a certified Google Data Analytics professional;
@@ -8,8 +7,10 @@
 - :iphone: I will now learn dart/flutter
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
 - :exclamation: Fun fact²: I have a bachelor's degree in History;
-
-</br></br>
+<br>
+PS: The projects I'm currently working on are pinned to my profile!
+</br>
+<br></br>
 <div align="center" style="">
   <a href="https://github.com/gui-laranjeira">  
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gui-laranjeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
