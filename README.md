@@ -14,7 +14,7 @@ PS: The projects I'm currently working on are pinned to my profile!
 <div align="center" style="">
   <a href="https://github.com/gui-laranjeira">  
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gui-laranjeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-laranjeira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-laranjeira&layout=compact&langs_count=7&theme=radical&hide=css,html"/>
 </div>
     
 </br></br>
