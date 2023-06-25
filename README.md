@@ -6,7 +6,7 @@
 - 🎓 Technologist course in system analysis and development;
 - :iphone: I will now learn dart/flutter
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
-- :exclamation: Fun fact²: I have a bachelor's degree in History;
+- :exclamation: Fun fact²: I have a bachelor's degree in History from the University of São Paulo;
 <br>
 PS: The projects I'm currently working on are pinned to my profile!
 </br>
