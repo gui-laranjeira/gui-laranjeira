@@ -1,4 +1,4 @@
-### Hi! My name is Guilherme Laranjeira and I'm a full-stack software developer
+### Hi! My name is Guilherme Laranjeira and I'm a full-stack developer.
 
 
 - 💻 Work with .NET, Angular and Ionic;
