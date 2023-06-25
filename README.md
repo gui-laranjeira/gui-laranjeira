@@ -1,4 +1,10 @@
-### Hi! My name is Guilherme Laranjeira and I'm a full-stack developer.
+<div align="center">
+  <h1> Hi! My name is Guilherme Laranjeira and I'm a full-stack developer. </h1>
+  <h3>My personal porfolio is available at https://laranjeira.dev/.</h3> 
+  <h4>Get in touch: gui.laranjeira1@gmail.com</h4>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=gui-laranjeira&label=Profile%20views&color=0e75b6&style=flat" alt="gui-laranjeira" /> </p>
+  <br>
+</div>
 
 - 💻 I work with .NET, Angular and Ionic;
 - :sparkling_heart: But I really like Go, Node.js and Vue.js;
@@ -13,7 +19,7 @@ PS: The projects I'm currently working on are pinned to my profile!
 <br></br>
 <div align="center" style="">
   <a href="https://github.com/gui-laranjeira">  
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gui-laranjeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gui-laranjeira&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-laranjeira&layout=compact&langs_count=7&theme=dracula&hide=css,html"/>
 </div>
     
