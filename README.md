@@ -7,7 +7,7 @@
 </div>
 
 - 💻 I work with .NET, Angular and Ionic;
-- :sparkling_heart: But I really like Go, Node.js and Vue.js;
+- :sparkling_heart: But I really like Go and Vue.js;
 - 📊 I'm a certified Google Data Analytics professional;
 - 🎓 Technologist course in system analysis and development;
 - :iphone: I will now learn dart/flutter
