@@ -10,7 +10,7 @@
 - :sparkling_heart: But I really like Go and Vue.js;
 - 📊 I'm a certified Google Data Analytics professional;
 - 🎓 Technologist course in system analysis and development;
-- :iphone: I will now learn dart/flutter
+- :iphone: I'm passionate about software architecture and cybersecurity;
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
 - :exclamation: Fun fact²: I have a bachelor's degree in History from the University of São Paulo;
 <br>
