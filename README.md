@@ -6,8 +6,8 @@
   <br>
 </div>
 
-- 💻 I work with .NET, Angular and Ionic;
-- :sparkling_heart: But I really like Go and Vue.js;
+- 💻 I work with .NET, Go and Typescript;
+- :sparkling_heart: In front-end I use Vue.js, Angular and Ionic;
 - 📊 I'm a certified Google Data Analytics professional;
 - 🎓 Technologist course in system analysis and development;
 - :iphone: I'm passionate about software architecture and cybersecurity;
