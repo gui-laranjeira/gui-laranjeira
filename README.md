@@ -8,7 +8,7 @@
 
 - 💻 I work with .NET, Go and Typescript;
 - :sparkling_heart: In front-end I use Vue.js, Angular and Ionic;
-- 📊 I'm a certified Google Data Analytics professional;
+- 🔭 I’m looking to collaborate on golang / .net projects;
 - 🎓 Technologist course in system analysis and development;
 - :iphone: I'm passionate about software architecture and cybersecurity;
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
