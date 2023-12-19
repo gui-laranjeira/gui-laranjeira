@@ -8,8 +8,8 @@
 
 - 💻 I work with .NET, Go and Typescript;
 - :sparkling_heart: In front-end I use Vue.js, Angular and Ionic;
-- 🔭 I’m looking to collaborate on golang / .net projects;
-- 🎓 Technologist course in system analysis and development;
+- 🔭 I’m looking to collaborate on golang / .NET projects;
+- 🎓 I am currently a Systems Analysis and Development student;
 - :iphone: I'm passionate about software architecture and cybersecurity;
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
 - :exclamation: Fun fact²: I have a bachelor's degree in History from the University of São Paulo;
