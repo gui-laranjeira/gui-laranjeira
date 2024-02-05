@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi! My name is Guilherme Laranjeira and I'm a full-stack developer. </h1>
-  <h3>My personal porfolio is available at https://laranjeira.dev/.</h3> 
+  <h3>My personal website is available at https://laranjeira.dev/.</h3> 
   <h4>Get in touch: gui.laranjeira1@gmail.com</h4>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=gui-laranjeira&label=Profile%20views&color=0e75b6&style=flat" alt="gui-laranjeira" /> </p>
   <br>
