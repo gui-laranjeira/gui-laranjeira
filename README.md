@@ -1,15 +1,14 @@
 <div align="center">
-  <h1> Hi! My name is Guilherme Laranjeira and I'm a full-stack developer. </h1>
+  <h1> Hi! My name is Guilherme Laranjeira and I'm a software developer. </h1>
   <h3>My personal website is available at https://laranjeira.dev/.</h3> 
   <h4>Get in touch: gui.laranjeira1@gmail.com</h4>
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=gui-laranjeira&label=Profile%20views&color=0e75b6&style=flat" alt="gui-laranjeira" /> </p>
   <br>
 </div>
 
-- 💻 I work with .NET, Go and Typescript;
-- :sparkling_heart: In front-end I use Vue.js, Angular and Ionic;
-- 🔭 I’m looking to collaborate on golang / .NET projects;
-- 🎓 I am currently a Systems Analysis and Development student;
+- 💻 I work with mostly with Go, but I've had experience with Python, Kotlin, .NET and Typescript;
+- 🔭 I’m looking to collaborate on golang;
+- 🎓 Aspiring Hacker;
 - :iphone: I'm passionate about software architecture and cybersecurity;
 - 🥉 Fun fact: I was a bronze medalist at the Brazilian Astronomy Olympiad!;
 - :exclamation: Fun fact²: I have a bachelor's degree in History from the University of São Paulo;
@@ -25,13 +24,11 @@ PS: The projects I'm currently working on are pinned to my profile!
     
 </br></br>
 <div style="display: inline_block"><br>
-  <img align="left" alt="Gui-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="left" alt="Gui-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="Gui-Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="left" alt="Gui-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="left" alt="Gui-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img align="left" alt="Gui-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="Gui-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" alt="Gui-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="left" alt="Gui-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="left" alt="Gui-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="left" alt="Gui-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 
